@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Email Manager</string>
+
+    <!-- Navigation -->
+    <string name="navigation_add_email">Add Email</string>
+    <string name="navigation_search">Search</string>
+    <string name="navigation_settings">Settings</string>
+
+    <!-- Add Email Screen -->
+    <string name="add_email_title">Add New Email</string>
+    <string name="email_id_hint">Email ID</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="tab_group_hint">Tab Group</string>
+    <string name="tags_section_title">Tags</string>
+    <string name="browser_groups_section_title">Browser Groups</string>
+    <string name="use_cases_section_title">Use Cases</string>
+    <string name="add_tag_button">Add Tag</string>
+    <string name="add_browser_group_button">Add Browser Group</string>
+    <string name="add_use_case_button">Add Use Case</string>
+    <string name="save_button">Save Email</string>
+
+    <!-- Search Screen -->
+    <string name="search_hint">Search emails</string>
+    <string name="filter_all">All</string>
+    <string name="filter_email">Email</string>
+    <string name="filter_name">Name</string>
+    <string name="filter_tag">Tag</string>
+    <string name="filter_browser_group">Browser Group</string>
+    <string name="filter_use_case">Use Case</string>
+    <string name="no_results_found">No results found</string>
+    <string name="edit_button">Edit</string>
+
+    <!-- Settings Screen -->
+    <string name="settings_theme_title">Theme</string>
+    <string name="settings_dark_theme">Dark Theme</string>
+    <string name="settings_data_management">Data Management</string>
+    <string name="settings_export_data">Export Data</string>
+    <string name="settings_import_data">Import Data</string>
+    <string name="settings_clear_data">Clear All Data</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version %1$s</string>
+    <string name="settings_app_description">Email Manager App</string>
+
+    <!-- Dialog Titles -->
+    <string name="dialog_add_tag_title">Add New Tag</string>
+    <string name="dialog_add_browser_group_title">Add New Browser Group</string>
+    <string name="dialog_add_use_case_title">Add New Use Case</string>
+    <string name="dialog_clear_data_title">Clear All Data</string>
+    <string name="dialog_clear_data_message">Are you sure you want to clear all data? This action cannot be undone.</string>
+
+    <!-- Dialog Buttons -->
+    <string name="dialog_add">Add</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="dialog_clear">Clear</string>
+
+    <!-- Input Fields -->
+    <string name="input_name">Name</string>
+    <string name="input_description">Description</string>
+
+    <!-- Validation Messages -->
+    <string name="error_email_required">Email ID is required</string>
+    <string name="error_first_name_required">First name is required</string>
+    <string name="error_last_name_required">Last name is required</string>
+    <string name="error_tab_group_required">Tab group is required</string>
+    <string name="error_name_required">Name is required</string>
+
+    <!-- Success Messages -->
+    <string name="success_email_added">Email added successfully</string>
+    <string name="success_email_updated">Email updated successfully</string>
+    <string name="success_tag_added">Tag added successfully</string>
+    <string name="success_browser_group_added">Browser group added successfully</string>
+    <string name="success_use_case_added">Use case added successfully</string>
+    <string name="success_data_exported">Data exported successfully to %1$s</string>
+    <string name="success_data_imported">Data imported successfully</string>
+    <string name="success_data_cleared">All data cleared successfully</string>
+
+    <!-- Error Messages -->
+    <string name="error_adding_email">Failed to add email: %1$s</string>
+    <string name="error_updating_email">Failed to update email: %1$s</string>
+    <string name="error_adding_tag">Failed to add tag: %1$s</string>
+    <string name="error_adding_browser_group">Failed to add browser group: %1$s</string>
+    <string name="error_adding_use_case">Failed to add use case: %1$s</string>
+    <string name="error_exporting_data">Failed to export data: %1$s</string>
+    <string name="error_importing_data">Failed to import data: %1$s</string>
+    <string name="error_clearing_data">Failed to clear data: %1$s</string>
+
+    <!-- Date Format -->
+    <string name="date_format">Created: %1$s</string>
+</resources>
